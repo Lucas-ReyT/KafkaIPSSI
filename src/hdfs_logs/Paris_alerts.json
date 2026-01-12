@@ -1,0 +1,4 @@
+[
+  {"temperature": 10.0, "windspeed": 12.0, "wind_alert": "level_1", "heat_alert": "level_0", "city": "Paris", "country": "France", "time": "2026-01-12T10:00"},
+  {"temperature": 12.0, "windspeed": 8.0, "wind_alert": "level_0", "heat_alert": "level_0", "city": "Paris", "country": "France", "time": "2026-01-12T11:00"}
+]
